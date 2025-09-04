@@ -8,25 +8,10 @@
 
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChilliRoger/ChilliRoger/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChilliRoger/ChilliRoger/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ChilliRoger/ChilliRoger/output/github-snake-dark.svg" />
-  </picture>
-</div>
 
 ---
 
-##  SYSTEM PROFILE
-
-<div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&width=950&lines=$+sudo+init_AI.sh;~/deploy_blockchain.sh+--network=testnet;~/run_fullstack.sh+--prod;~/commit_open_source.sh;~/hackathon_solver.py+--fast;~/echo+'NEON+SYSTEM+READY';" alt="Terminal Commands" />
-</div>
-
----
-
-# Tech Stack
+# Tech Stack:
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -51,7 +36,16 @@
 
 ---
 
-##  SYSTEM ANALYTICS
+
+##  SYSTEM ANALYTICS:
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChilliRoger/ChilliRoger/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChilliRoger/ChilliRoger/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ChilliRoger/ChilliRoger/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
 <div align="center">
 
@@ -65,7 +59,7 @@
 
 ---
 
-## DAILY QUOTE
+## DAILY QUOTE:
 
 <div align="center">
 
