@@ -7,7 +7,14 @@
   <img src="https://img.shields.io/badge/SYSTEM%20STATUS-ACTIVE-39FF14?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
 
 </div>
-
+</br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charlesms1246/charlesms1246/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charlesms1246/charlesms1246/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charlesms1246/charlesms1246/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
 
 ---
 
@@ -39,13 +46,7 @@
 
 ##  SYSTEM ANALYTICS:
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charlesms1246/charlesms1246/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charlesms1246/charlesms1246/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charlesms1246/charlesms1246/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+
 
 <div align="center">
 
