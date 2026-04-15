@@ -50,7 +50,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=charlesms1246&theme=radical&hide_border=true&background=0D1117&stroke=00E7FF&ring=9A00FF&fire=39FF14&currStreakLabel=39FF14)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=charlesms1246&theme=highcontrast)](https://git.io/streak-stats)
 
 </div>
 
