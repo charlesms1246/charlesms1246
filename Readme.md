@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/charlesms1246/charlesms1246/main/assets/glitch-name.svg" alt="CHARLES M S" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=99999&color=A8FF3E&center=true&vCenter=true&width=800&height=90&lines=CHARLES+M+S" alt="CHARLES M S" />
 </div>
 
 <div align="center">
