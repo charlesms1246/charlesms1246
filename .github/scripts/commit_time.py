@@ -63,7 +63,7 @@ def get_commit_hours(repos):
             page += 1
     return slots
 
-def bar(count, total, length=25):
+def bar(count, total, length=12):
     filled = round((count / total) * length) if total else 0
     return '█' * filled + '░' * (length - filled)
 
@@ -78,7 +78,7 @@ def build_block(slots):
     lines = []
     for emoji, label, count in rows:
         pct = (count / total) * 100
-        lines.append(f'  {emoji} {label:<9} {count:>5} commits     {bar(count, total)}   {pct:.2f}%')
+        lines.append(f'  {emoji} {label:<9} {count:>4}c  {bar(count, total)}  {pct:.2f}%')
     return '\n'.join(lines)
 
 def update_readme(block):
