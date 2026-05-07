@@ -250,9 +250,6 @@
   <a href="https://t.me/hackerhai12" target="_blank" rel="noopener noreferrer">
     <kbd><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0A0818&color=0E0B22" /></kbd>
   </a>
-  <a href="https://charlesms1246.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-    <kbd><img src="https://img.shields.io/badge/PORTFOLIO-A8FF3E?style=for-the-badge&logo=google-chrome&logoColor=A8FF3E&labelColor=0A0818&color=0E0B22" /></kbd>
-  </a>
   <a href="mailto:charlesms2006@gmail.com" target="_blank" rel="noopener noreferrer">
     <kbd><img src="https://img.shields.io/badge/EMAIL-FF4444?style=for-the-badge&logo=gmail&logoColor=FF4444&labelColor=0A0818&color=0E0B22" /></kbd>
   </a>
