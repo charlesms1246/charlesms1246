@@ -136,23 +136,17 @@
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=charlesms1246&show_icons=true&hide_border=false&bg_color=0A0818&title_color=A8FF3E&text_color=F2E7FF&icon_color=7F77DD&border_color=2D1F5E&ring_color=7F77DD&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=charlesms1246&show_icons=true&hide_border=false&bg_color=0A0818&title_color=A8FF3E&text_color=F2E7FF&icon_color=7F77DD&border_color=2D1F5E&ring_color=7F77DD&rank_icon=github" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesms1246&layout=compact&hide_border=false&bg_color=0A0818&title_color=A8FF3E&text_color=F2E7FF&border_color=2D1F5E&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charlesms1246&layout=compact&hide_border=false&bg_color=0A0818&title_color=A8FF3E&text_color=F2E7FF&border_color=2D1F5E&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=charlesms1246&hide_border=false&background=0A0818&stroke=2D1F5E&ring=7F77DD&fire=A8FF3E&currStreakLabel=A8FF3E&sideLabels=9B8EC4&dates=5A4A8A&currStreakNum=F2E7FF&sideNums=F2E7FF&border=2D1F5E" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=charlesms1246&hide_border=false&background=0A0818&stroke=2D1F5E&ring=7F77DD&fire=A8FF3E&currStreakLabel=A8FF3E&sideLabels=9B8EC4&dates=5A4A8A&currStreakNum=F2E7FF&sideNums=F2E7FF&border=2D1F5E" alt="GitHub Streak" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charlesms1246&bg_color=0A0818&color=A8FF3E&line=7F77DD&point=378ADD&area=true&hide_border=false&border_color=2D1F5E&area_color=13102E" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -165,6 +159,12 @@
   🌃 Evening   112 commits     █████████░░░░░░░░░░░░░░░░   36.01%
   🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░    8.36%</pre>
   <!--END_SECTION:productive_time-->
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charlesms1246&bg_color=0A0818&color=A8FF3E&line=7F77DD&point=378ADD&area=true&hide_border=false&border_color=2D1F5E&area_color=13102E" alt="Activity Graph" />
 </div>
 
 <br/>
