@@ -48,11 +48,11 @@ def get_commit_hours(repos):
                 try:
                     date_str = commit['commit']['author']['date']
                     hour = datetime.fromisoformat(date_str.replace('Z', '+00:00')).hour
-                    if 6 <= hour < 12:
+                    if 5 <= hour < 12:
                         slots['Morning'] += 1
                     elif 12 <= hour < 18:
                         slots['Daytime'] += 1
-                    elif 18 <= hour < 24:
+                    elif 18 <= hour < 22:
                         slots['Evening'] += 1
                     else:
                         slots['Night'] += 1
