@@ -78,7 +78,7 @@ def build_block(slots):
     lines = []
     for emoji, label, count in rows:
         pct = (count / total) * 100
-        lines.append(f'  {emoji} {label:<9} {count:>4}c  {bar(count, total)}  {pct:.2f}%')
+        lines.append(f'  {emoji} {label:<9} {count:>4} commits  {bar(count, total)}  {pct:.2f}%')
     return '\n'.join(lines)
 
 def update_readme(block):
