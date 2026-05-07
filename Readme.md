@@ -18,17 +18,23 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=99999&color=FF6EE7&center=true&vCenter=true&width=440&height=36&lines=%5B+NOW+PLAYING+%2F%2F+SIGNAL+LIVE+%5D" alt="Spotify Header" />
-</div>
-
-<br/>
-
 <img align="right" src="https://raw.githubusercontent.com/charlesms1246/charlesms1246/main/assets/github-vid.gif" alt="Animation" height="300" />
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofbhvxqp6jpxqru3elgov2mncm&cover_image=true&theme=novatorem&show_offline=false&background_color=0A0818&interchange=true&profanity=false&bar_color=7F77DD&bar_color_cover=false" alt="Spotify Now Playing" />
-</a>
+<!--START_SECTION:productive_time-->
+<pre style="background:#0E0B22;border:1px solid #2D1F5E;padding:12px;display:inline-block;text-align:left;">
+  🌞 Morning     215 commits     █████████░░░░░░░░░░░░░░░░   34.13%
+  🌆 Daytime     159 commits     ██████░░░░░░░░░░░░░░░░░░░   25.24%
+  🌃 Evening     121 commits     █████░░░░░░░░░░░░░░░░░░░░   19.21%
+  🌙 Night       135 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43%</pre>
+<!--END_SECTION:productive_time-->
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofbhvxqp6jpxqru3elgov2mncm&cover_image=true&theme=novatorem&show_offline=false&background_color=0A0818&interchange=true&profanity=false&bar_color=7F77DD&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+<br clear="all"/>
 
 <br/>
 <div align="center">
@@ -147,18 +153,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=charlesms1246&hide_border=false&background=0A0818&stroke=2D1F5E&ring=7F77DD&fire=A8FF3E&currStreakLabel=A8FF3E&sideLabels=9B8EC4&dates=5A4A8A&currStreakNum=F2E7FF&sideNums=F2E7FF&border=2D1F5E" alt="GitHub Streak" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <!--START_SECTION:productive_time-->
-  <pre style="background:#0E0B22;border:1px solid #2D1F5E;padding:12px;display:inline-block;text-align:left;">
-  🌞 Morning     215 commits     █████████░░░░░░░░░░░░░░░░   34.13%
-  🌆 Daytime     159 commits     ██████░░░░░░░░░░░░░░░░░░░   25.24%
-  🌃 Evening     121 commits     █████░░░░░░░░░░░░░░░░░░░░   19.21%
-  🌙 Night       135 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43%</pre>
-  <!--END_SECTION:productive_time-->
 </div>
 
 <br/>
