@@ -25,6 +25,8 @@
     <kbd><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofbhvxqp6jpxqru3elgov2mncm&cover_image=true&theme=novatorem&show_offline=false&background_color=0A0818&interchange=true&profanity=false&bar_color=7F77DD&bar_color_cover=false" alt="Spotify Now Playing" /></kbd>
   </a>
 </div>
+<br/>
+<br/>
 
 <!--START_SECTION:productive_time-->
 <pre style="background:#0E0B22;border:1px solid #2D1F5E;padding:12px;display:inline-block;text-align:left;">
