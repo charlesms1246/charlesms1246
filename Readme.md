@@ -183,26 +183,30 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/charles-m-s-161804290" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0818&color=0E0B22" />
+    <kbd><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0818&color=0E0B22" /></kbd>
   </a>
   &nbsp;
   <a href="https://instagram.com/charlie_him452" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FF6EE7?style=for-the-badge&logo=instagram&logoColor=FF6EE7&labelColor=0A0818&color=0E0B22" />
+    <kbd><img src="https://img.shields.io/badge/INSTAGRAM-FF6EE7?style=for-the-badge&logo=instagram&logoColor=FF6EE7&labelColor=0A0818&color=0E0B22" /></kbd>
   </a>
   &nbsp;
   <a href="https://x.com/sigma_coder12" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-F2E7FF?style=for-the-badge&logo=x&logoColor=F2E7FF&labelColor=0A0818&color=0E0B22" />
+    <kbd><img src="https://img.shields.io/badge/X-F2E7FF?style=for-the-badge&logo=x&logoColor=F2E7FF&labelColor=0A0818&color=0E0B22" /></kbd>
   </a>
   &nbsp;
   <a href="https://discord.com/users/sigma_coder12" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/DISCORD-7F77DD?style=for-the-badge&logo=discord&logoColor=7F77DD&labelColor=0A0818&color=0E0B22" />
+    <kbd><img src="https://img.shields.io/badge/DISCORD-7F77DD?style=for-the-badge&logo=discord&logoColor=7F77DD&labelColor=0A0818&color=0E0B22" /></kbd>
+  </a>
+  &nbsp;
+  <a href="https://t.me/hackerhai12" target="_blank" rel="noopener noreferrer">
+    <kbd><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0A0818&color=0E0B22" /></kbd>
   </a>
   &nbsp;
   <a href="https://charlesms1246.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PORTFOLIO-A8FF3E?style=for-the-badge&logo=google-chrome&logoColor=A8FF3E&labelColor=0A0818&color=0E0B22" />
+    <kbd><img src="https://img.shields.io/badge/PORTFOLIO-A8FF3E?style=for-the-badge&logo=google-chrome&logoColor=A8FF3E&labelColor=0A0818&color=0E0B22" /></kbd>
   </a>
   &nbsp;
   <a href="mailto:charlesms2006@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/EMAIL-FF4444?style=for-the-badge&logo=gmail&logoColor=FF4444&labelColor=0A0818&color=0E0B22" />
+    <kbd><img src="https://img.shields.io/badge/EMAIL-FF4444?style=for-the-badge&logo=gmail&logoColor=FF4444&labelColor=0A0818&color=0E0B22" /></kbd>
   </a>
 </div>
