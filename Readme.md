@@ -20,6 +20,12 @@
 
 <img align="right" src="https://raw.githubusercontent.com/charlesms1246/charlesms1246/main/assets/github-vid.gif" alt="Animation" height="300" />
 
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofbhvxqp6jpxqru3elgov2mncm&cover_image=true&theme=novatorem&show_offline=false&background_color=0A0818&interchange=true&profanity=false&bar_color=7F77DD&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
 <!--START_SECTION:productive_time-->
 <pre style="background:#0E0B22;border:1px solid #2D1F5E;padding:12px;display:inline-block;text-align:left;">
   🌞 Morning   215 commits  ████████░░░░  34.13%
@@ -27,12 +33,6 @@
   🌃 Evening   121 commits  █████░░░░░░░  19.21%
   🌙 Night     135 commits  █████░░░░░░░  21.43%</pre>
 <!--END_SECTION:productive_time-->
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofbhvxqp6jpxqru3elgov2mncm&cover_image=true&theme=novatorem&show_offline=false&background_color=0A0818&interchange=true&profanity=false&bar_color=7F77DD&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</div>
 
 <br clear="all"/>
 
@@ -47,10 +47,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=99999&color=7F77DD&center=true&vCenter=true&width=400&height=36&lines=%5B+TECH+STACK+%2F%2F+LOADED+%5D" alt="Tech Stack Header" />
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/──────────────────────────────────────────────────────────────-2D1F5E?style=flat" />
-</div>
+<br/>
 
 <div align="center">
   <code><img width="46" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
