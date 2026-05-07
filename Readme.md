@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofbhvxqp6jpxqru3elgov2mncm&cover_image=true&theme=novatorem&show_offline=false&background_color=0A0818&interchange=true&profanity=false&bar_color=7F77DD&bar_color_cover=false" alt="Spotify Now Playing" />
+    <kbd><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofbhvxqp6jpxqru3elgov2mncm&cover_image=true&theme=novatorem&show_offline=false&background_color=0A0818&interchange=true&profanity=false&bar_color=7F77DD&bar_color_cover=false" alt="Spotify Now Playing" /></kbd>
   </a>
 </div>
 
@@ -45,7 +45,7 @@
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=99999&color=7F77DD&center=true&vCenter=true&width=400&height=36&lines=%5B+TECH+STACK+%2F%2F+LOADED+%5D" alt="Tech Stack Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=99999&color=7F77DD&center=true&vCenter=true&width=400&height=36&lines=%5B+TECH+STACK+%5D" alt="Tech Stack Header" />
 </div>
 <br/>
 
@@ -133,7 +133,7 @@
 <!-- ═══════════════════════  SYSTEM ANALYTICS  ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=99999&color=A8FF3E&center=true&vCenter=true&width=480&height=36&lines=%5B+SYSTEM+ANALYTICS+%2F%2F+DASHBOARD+%5D" alt="Analytics Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=99999&color=A8FF3E&center=true&vCenter=true&width=480&height=36&lines=%5B+SYSTEM+ANALYTICS+%5D" alt="Analytics Header" />
 </div>
 
 <br/>
