@@ -28,12 +28,12 @@
 <br/>
 
 <!--START_SECTION:productive_time-->
-<pre style="background:#0E0B22;border:1px solid #2D1F5E;padding:12px;display:inline-block;text-align:left;">
-  🌞 Morning   215 commits  ████████░░░░  34.13%
-  🌆 Daytime   159 commits  ██████░░░░░░  25.24%
-  🌃 Evening   121 commits  █████░░░░░░░  19.21%
-  🌙 Night     135 commits  █████░░░░░░░  21.43%</pre>
-<!--END_SECTION:productive_time-->
+  <pre style="background:#0E0B22;border:1px solid #2D1F5E;padding:12px;display:inline-block;text-align:left;">
+  🌞 Morning    275 commits  █████░░░░░░░  41.67%
+  🌆 Daytime    165 commits  ███░░░░░░░░░  25.00%
+  🌃 Evening    106 commits  ██░░░░░░░░░░  16.06%
+  🌙 Night      114 commits  ██░░░░░░░░░░  17.27%</pre>
+  <!--END_SECTION:productive_time-->
 
 <br clear="all"/>
 
