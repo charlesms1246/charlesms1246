@@ -216,7 +216,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/charles-m-s-161804290" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/charles-m-s" target="_blank" rel="noopener noreferrer">
     <kbd><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0818&color=0E0B22" /></kbd>
   </a>
   <a href="https://instagram.com/charlie_him452" target="_blank" rel="noopener noreferrer">
